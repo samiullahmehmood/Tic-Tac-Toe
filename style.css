@@ -17,6 +17,9 @@ body {
     height: 100vh;
 
 }
+main{
+    margin-top: 5rem;
+}
 
 .container {
     height: 70vmin;
